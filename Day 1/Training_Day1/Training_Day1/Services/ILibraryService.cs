@@ -7,7 +7,7 @@ using Training_Day1.Models;
 
 namespace Training_Day1.Services
 {
-    internal interface ILibraryService
+    public interface ILibraryService
     {
         public void AddUser(string email, string name, string gender);
         public List<User> GetUsers();
