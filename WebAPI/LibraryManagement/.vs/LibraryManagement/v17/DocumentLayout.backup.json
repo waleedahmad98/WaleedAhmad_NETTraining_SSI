@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Migrations\\20250627104437_addedBadWeatherColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagement\\Migrations\\20250627104437_addedBadWeatherColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\weatherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\migrations\\weatherdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\weatherdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\weatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\weatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\iweatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\iweatherforecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\migrations\\20250627093238_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\20250627093238_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\webapi\\librarymanagement\\librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24DC4C2D-C859-4F4E-A1BA-B09F21B30081}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:57:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:53:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:49:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:65:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:80:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250627104437_addedBadWeatherColumn.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Migrations\\20250627104437_addedBadWeatherColumn.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20250627104437_addedBadWeatherColumn.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Migrations\\20250627104437_addedBadWeatherColumn.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20250627104437_addedBadWeatherColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:44:37.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\WeatherDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:31:19.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastRepository.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\WeatherForecastRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\WeatherForecastRepository.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\WeatherForecastRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\WeatherForecastRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:35:23.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWeatherForecastRepository.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\IWeatherForecastRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\IWeatherForecastRepository.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\IWeatherForecastRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\IWeatherForecastRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:33:37.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250627093238_InitialDb.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Migrations\\20250627093238_InitialDb.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20250627093238_InitialDb.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Migrations\\20250627093238_InitialDb.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20250627093238_InitialDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:32:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherDbContext.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\WeatherDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\WeatherDbContext.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\WeatherDbContext.cs",
+              "RelativeToolTip": "LibraryManagement\\WeatherDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:05:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T08:38:56.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:23:09.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\WeatherForecast.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\WeatherForecast.cs",
+              "RelativeToolTip": "LibraryManagement\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:23:18.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:23:51.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryManagement.csproj",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibraryManagement.csproj",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\WebAPI\\LibraryManagement\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement\\LibraryManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T10:37:09.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

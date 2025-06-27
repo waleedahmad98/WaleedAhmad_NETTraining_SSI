@@ -1,21 +1,29 @@
-﻿using Training_Day1.Models;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Training_Day1.Models;
 using Training_Day1.Services;
 
 class Program
 {
     static void Main()
     {
-        var service = new LibraryService();
-        service.AddBook("123", "MyBook", 3);
-        service.AddUser("user@email", "MyUser", "M");
+        // get config
+        var config = new ConfigurationBuilder().
+            SetBasePath(Directory.GetCurrentDirectory())
+            .AddJsonFile("appsettings.json", optional: false, reloadOnChange:true)
+            .Build();
 
-        Console.WriteLine("Books in Library:");
-        foreach (var book in service.GetBooks())
-            Console.WriteLine($"{book.Isbn} - {book.Name} - {book.Quantity}");
+        // set dependency injection
+        var services = new ServiceCollection();
+        services.AddSingleton<ILibraryService, LibraryService>();
+        services.Configure<AppOptions>(config.GetSection("AppOptions"));
 
-        service.BorrowBook("user@email", "123");
+        // Runner.cs
+        services.AddSingleton<Runner>();
 
-        foreach (var book in service.GetBooks())
-            Console.WriteLine($"{book.Isbn} - {book.Name} - {book.Quantity}");
+        var provider = services.BuildServiceProvider();
+        var ourRunner = provider.GetRequiredService<Runner>();
+
+        ourRunner.Run();
     }
 }

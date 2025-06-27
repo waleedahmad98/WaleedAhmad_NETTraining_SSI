@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\services\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\services\\runner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\models\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\models\\appoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|d:\\.net training repository\\waleedahmad_nettraining_ssi\\day 1\\training_day1\\training_day1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{077D1AF9-1D86-498C-9F59-E13239CB5E81}|Training_Day1\\Training_Day1.csproj|solutionrelative:training_day1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 33,
+          "SelectedChildIndex": 29,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,67 +150,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Runner.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Services\\Runner.cs",
+              "RelativeDocumentMoniker": "Training_Day1\\Services\\Runner.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Services\\Runner.cs",
+              "RelativeToolTip": "Training_Day1\\Services\\Runner.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T10:59:38.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ILibraryService.cs",
               "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Services\\ILibraryService.cs",
               "RelativeDocumentMoniker": "Training_Day1\\Services\\ILibraryService.cs",
               "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Services\\ILibraryService.cs",
               "RelativeToolTip": "Training_Day1\\Services\\ILibraryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:55:27.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibraryService.cs",
-              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Services\\LibraryService.cs",
-              "RelativeDocumentMoniker": "Training_Day1\\Services\\LibraryService.cs",
-              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Services\\LibraryService.cs",
-              "RelativeToolTip": "Training_Day1\\Services\\LibraryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:55:13.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Training_Day1\\Models\\Book.cs",
-              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Models\\Book.cs",
-              "RelativeToolTip": "Training_Day1\\Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:54:54.456Z",
+              "WhenOpened": "2025-06-25T11:00:24.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Training_Day1\\Models\\User.cs",
-              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Models\\User.cs",
-              "RelativeToolTip": "Training_Day1\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Title": "AppOptions.cs",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Models\\AppOptions.cs",
+              "RelativeDocumentMoniker": "Training_Day1\\Models\\AppOptions.cs",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Models\\AppOptions.cs",
+              "RelativeToolTip": "Training_Day1\\Models\\AppOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:54:33.399Z",
+              "WhenOpened": "2025-06-25T10:48:48.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Program.cs",
               "RelativeDocumentMoniker": "Training_Day1\\Program.cs",
               "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\Program.cs",
               "RelativeToolTip": "Training_Day1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T05:53:53.056Z",
+              "WhenOpened": "2025-06-25T10:32:46.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\appsettings.json",
+              "RelativeDocumentMoniker": "Training_Day1\\appsettings.json",
+              "ToolTip": "D:\\.NET Training Repository\\WaleedAhmad_NETTraining_SSI\\Day 1\\Training_Day1\\Training_Day1\\appsettings.json",
+              "RelativeToolTip": "Training_Day1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T10:49:35.93Z",
               "EditorCaption": ""
             }
           ]
